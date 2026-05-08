@@ -1,0 +1,23 @@
+# SapphireSlash Image License v.1.0
+
+Copyright (SapphireSlash)
+
+This license allows for images to be distributed, embedded and integrated in an unmodified form.
+
+## Usage Rights
+
+You may distribute these images, embed them into a website or integrate them into a video or photo in it’s unmodified form.
+
+When doing any of those things you have to credit the copyright holder in some way shape or form.
+
+## Restrictions
+
+You may not modify these images in any way shape or form or sell the images in any form, unless you get permission from the copyright holder to do so.
+
+You also shouldn’t put these images into an AI.
+
+If you do any of these restrictions without following the instructions, the license will be terminated.
+
+Modifying the License
+
+If you are unhappy with this license and want to change something, you are allowed to do so although you should put “Based on the SapphireSlash Image License.” in some part of the license, preferably in the beginning or end of the license.
