@@ -1,6 +1,6 @@
 # SapphireSlash Image License v.1.0
 
-Copyright (SapphireSlash)
+Copyright (Copyright Holder)
 
 This license allows for images to be distributed, embedded and integrated in an unmodified form.
 
