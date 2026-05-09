@@ -1,8 +1,8 @@
 # SapphireSlash Weak Image License v.1.0
 
-Copyright (Copyright Holder)
+Copyright © (Copyright Holder/Holders)
 
-The main difference between this and the SSIL license is that this license allows images to be modified without getting permission from the author.
+The main difference between this and the SSIL license is that this license allows images to be modified without getting permission from the copyright holder/holders.
 
 This license allows for images to be distributed, embedded and integrated in both unmodified and/or modified form.
 
@@ -12,11 +12,11 @@ This license is offered in an "as is" format.
 
 You may distribute these images, embed them into a website or integrate them into a video or photo in both unmodified and modified form.
 
-When doing any of those things you have to credit the copyright holder in some way shape or form. Preferably put "(Image Name/Names) is/are licensed under the SapphireSlash Weak Image License".
+When doing any of those things you have to credit the copyright holder/holders in some way shape or form. Preferably put "(Image Name/Names) is/are licensed under the SapphireSlash Weak Image License".
 
 ## Restrictions
 
-You may not sell these images in any form, unless you get permission from the copyright holder to do so.
+You may not sell these images in any form, unless you get permission from the copyright holder/holders to do so.
 
 You also shouldn’t put these images into an AI.
 
