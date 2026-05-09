@@ -12,7 +12,7 @@ This license is offered in an "as is" format.
 
 You may distribute these images, embed them into a website or integrate them into a video or photo in both unmodified and modified form.
 
-When doing any of those things you have to credit the copyright holder in some way shape or form.
+When doing any of those things you have to credit the copyright holder in some way shape or form. Preferably put "(Image Name/Names) is/are licensed under the SapphireSlash Weak Image License".
 
 ## Restrictions
 
