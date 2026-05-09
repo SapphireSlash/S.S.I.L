@@ -14,7 +14,7 @@ When doing any of those things you have to credit the copyright holder/holders i
 
 ## Restrictions
 
-You may not modify and/or sell these images in any form, unless you get permission from the copyright holder/holders to do so.
+You may not modify and/or sell these images in any form, unless you get permission from the copyright holder/holders to do so. If you get permission from the copyright holder/holders to modify the/these image/images, you have to put it under the same license.
 
 You also shouldn’t put these images into an AI.
 
