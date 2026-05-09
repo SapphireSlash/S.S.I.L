@@ -18,7 +18,7 @@ You may not modify and/or sell these images in any form, unless you get permissi
 
 You also shouldn’t put these images into an AI.
 
-If you do any of these restrictions, the license will be terminated.
+If you do any of these restrictions without following the instructions (if there are any), the license will be terminated.
 
 ## Copying
 
