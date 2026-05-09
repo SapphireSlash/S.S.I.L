@@ -1,4 +1,4 @@
-# SapphireSlash Image Weak License v.1.0
+# SapphireSlash Weak Image License v.1.0
 
 Copyright (Copyright Holder)
 
