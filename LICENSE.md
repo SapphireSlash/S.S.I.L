@@ -4,6 +4,8 @@ Copyright (Copyright Holder)
 
 This license allows for images to be distributed, embedded and integrated in an unmodified form.
 
+This license is offered in an "as is" format.
+
 ## Usage Rights
 
 You may distribute these images, embed them into a website or integrate them into a video or photo in it’s unmodified form.
@@ -12,11 +14,15 @@ When doing any of those things you have to credit the copyright holder in some w
 
 ## Restrictions
 
-You may not modify these images in any way shape or form or sell the images in any form, unless you get permission from the copyright holder to do so.
+You may not modify and/or sell these images in any form, unless you get permission from the copyright holder to do so.
 
 You also shouldn’t put these images into an AI.
 
 If you do any of these restrictions without following the instructions, the license will be terminated.
+
+## Copying
+
+If you are distributing these images, you have to have a copy of the license included in some way shape or form.
 
 ## Modifying the License
 
