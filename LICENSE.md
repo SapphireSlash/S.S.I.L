@@ -26,4 +26,4 @@ If you are distributing these images, you have to have a copy of the license inc
 
 ## Modifying the License
 
-If you are unhappy with this license and want to change something, you are allowed to do so although you should put “Based on the SapphireSlash Image License.” in some part of the license, preferably in the beginning or end of the license.
+If you are unhappy with this license and want to change something, you are allowed to do so.
