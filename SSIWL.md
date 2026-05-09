@@ -2,7 +2,7 @@
 
 Copyright (Copyright Holder)
 
-The main difference between this and the SSIL license is that this license allows images to be modified
+The main difference between this and the SSIL license is that this license allows images to be modified without getting permission from the author.
 
 This license allows for images to be distributed, embedded and integrated in both unmodified and/or modified forms.
 
