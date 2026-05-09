@@ -1,6 +1,6 @@
 # SapphireSlash Weak Image License v.1.0
 
-Copyright © (Copyright Holder/Holders)
+Copyright © (Year) (Copyright Holder/Holders)
 
 The main difference between this and the SSIL license is that this license allows images to be modified without getting permission from the copyright holder/holders.
 
