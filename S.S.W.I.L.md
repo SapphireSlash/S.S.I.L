@@ -20,7 +20,9 @@ You may not sell these images in any form, unless you get permission from the co
 
 You also shouldn’t put these images into an AI.
 
-If you do any of these restrictions, the license will be terminated.
+If modify the/these image/images, you have to put it under the same license.
+
+If you do any of these restrictions without following the instructions (if there are any), the license will be terminated.
 
 ## Copying
 
